@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457171162569",
+    "project_id": "sparklogin-30a71",
+    "storage_bucket": "sparklogin-30a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457171162569:android:6a2929e93a851eb3808418",
+        "android_client_info": {
+          "package_name": "com.thesparkfoundation.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457171162569-k755ik89rnh73huh1d76h29pui0gsao7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesparkfoundation.login",
+            "certificate_hash": "1a2f83fd15a2794ddcfdb6c93babf9d2c8a29b79"
+          }
+        },
+        {
+          "client_id": "457171162569-qn68htbqf4pevijglmk5uju8ni0lcl69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMibPW-7xEM0I2MBmdgrOwomD4HT_-xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457171162569-qn68htbqf4pevijglmk5uju8ni0lcl69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
